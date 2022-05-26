@@ -1,0 +1,5 @@
+Id,Password,Emri,Mbiemri,Email,NrPersonal,Titulli,Gjinia,Shteti,Komuna,Vendlindja,Kombesia,Adresa,NrTelefonit,
+1,123456,Ramadan,Limani,r_limani@yahoo.com,,Ligjerues,Mashkull,Kosovë,Fushë-Kosovë,Kumanovë,Shqipëtar,Istref Hoti nr.15,044821959,
+2,123456,Menderes,Gashi,menderes_gashi@yahoo.com,,Profesor asistent,Mashkull,Kosovë,Prishtinë,Begrac-Kaçanik,Shqipëtar,,+37744108187,
+3,fatonb123,Faton,Berisha,B faton.berisha@uni-pr.edu,,Profesor i rregullt,Mashkull,Kosovë,Prishtinë,Prishtinë,Shqipëtar,1 Xhemaili Berisha. Velania,044198670,
+4,eliot123,Eliot,Bytyqi,eliot.bytyqi@uni-pr.edu,,Profesor Asistent,Mashkull,Kosovë,Prishtinë,Prishtinë,Shqipëtar,Kosove,,

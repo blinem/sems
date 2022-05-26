@@ -1,0 +1,6 @@
+ID,Emri Lendes,Semestri,ECTS,Niveli,LLoji,
+020201001,Matematike elementare,1,7,Baçelor,Obligative,
+020201002,Gjeometri elementare,1,7,Baçelor,Obligative,
+020201003,Programimi I,1,5,Baçelor,Obligative,
+020201004,Gjuhë angleze I,1,3,Baçelor,Obligative,
+020201005,Analiza Matematike I,1,8,Baçelor,Obligative,

@@ -1,0 +1,5 @@
+ID,Departamenti,
+01,
+02,Programi Matematike,
+03,
+04,Programi Shkenca Kompjuterike,

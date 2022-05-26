@@ -1,0 +1,8 @@
+Id,Password,Emri,Mbiemri,Email,NrPersonal,Emri Prindit,Gjinia,Shteti,Komuna,Vendlindja,Kombesia,Adresa,NrTelefonit,
+00001,andi123,,,,123213213,,,,,,,,,
+00002,,,,,,,,,,,,,,
+00003,baba123,,,,,,,,,,,,
+00004,,,,,,,,,,,,,,
+00005,,,,,,,,,,,,,,
+00006,,,,,,,,,,,,,,
+7,,,,,,,,,,,,,,

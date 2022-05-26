@@ -1,0 +1,4 @@
+Id,Password,Emri,Mbiemri,Email,NrPersonal,Emri Prindit,Gjinia,Shteti,Komuna,Vendlindja,Kombesia,Adresa,NrTelefonit,
+1,andi123,Andi,Sejdiu,andi.sejdiu@gmail.com,1248120439210,Filan,Mashkull,Kosove,Gjilan,Gjilan,Shqipetar,Gjilan,045123456,
+2,ermal123,Ermal,Ismajli,ermal.ismajli@gmail.com,1243241,Filan,Mashkull,Kosove,Skenderaj,Skenderaj,Shqipetar,Skenderaj,044123456,
+3,roni123,Aron,Hoxha,,1234,,,,,,,,,
